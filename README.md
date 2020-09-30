@@ -5,7 +5,7 @@ hash real killer
 <h5> Author : ABDO10 </h5> 
 <h5> Tool : Hash Real Killer (HRK) </h5>
 <h5> Version : 1.0 </h5>
-<h5> Based on http://www.zedwood.com/article/cpp-md5-function (md5 function more is coming) </h5>
+<h5> Based on http://www.zedwood.com/article/cpp-md5-function (md5 function, more is coming) </h5>
 
 # screenshot overview 
 
