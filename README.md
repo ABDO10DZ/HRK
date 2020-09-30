@@ -1,0 +1,2 @@
+# HRK
+hash real killer 
