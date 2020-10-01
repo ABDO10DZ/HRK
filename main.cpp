@@ -150,7 +150,7 @@ int main(int argc, char *argv[]){
     	}
 
 	}
-	cout << " [-] Decryption Failed in " << times << " Try " << endl << endl;     
+	cout << "\n [-] Decryption Failed in " << times << " Try " << endl << endl;     
 
 
     return 0;
