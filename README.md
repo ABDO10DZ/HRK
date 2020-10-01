@@ -5,6 +5,7 @@ hash real killer
 <h5> Author : ABDO10 </h5> 
 <h5> Tool : Hash Real Killer (HRK) </h5>
 <h5> Version : 1.0 </h5>
+<h6> Based on : http://www.zedwood.com/article/cpp-[hash]-function/ </h6>
 
 # screenshot overview 
 
