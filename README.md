@@ -7,6 +7,10 @@ hash real killer
 <h5> Version : 1.0 </h5>
 <h6> Based on : http://www.zedwood.com/article/cpp-[hash]-function/ </h6>
 
+# Features
+* Crack md5 hashes
+* Crack sha1,sha224,sha256,sha384,sha512 hashes 
+* Quick Crack [tested in Low end Computers for 10 millions password in 45 Second]
 # screenshot overview 
 
 <img src="https://i.imgur.com/yiZXIjE.png">
