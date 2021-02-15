@@ -13,7 +13,7 @@ hash real killer
 * Quick Crack [tested in Low end Computers for 10 millions password in 45 Second]
 # screenshot overview 
 
-<img src="https://i.imgur.com/yiZXIjE.png">
+<img src="https://i.imgur.com/Lmnbi0U.png">
 
 # installation 
 <h5> with an easy way to install run on Unix-Like : </h5> 
