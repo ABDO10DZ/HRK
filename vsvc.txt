@@ -1,0 +1,13 @@
+# this File a Guid for c/c++ noobs only to build in Visual Studio (VSVC Compiler)
+
+to build hrk on Visual Studio , Follow Recommanded Instructions : 
+
+1 - open ur visual studio -> Create New Project 
+2 - Drop Main File Code that prepared in Vs -> Select by right click add file -> add main file in hrk file 'main.cpp'
+3 - in resource folder add all src/(*.cpp ) files 
+4 - in header folder add all src/(*.h) header files
+5 - build , u'll get an exe file for the tool in debug/release folder , probably ../Debug or ../Release
+
+#for any uncounted problem contact : https://t.me/ABDO10_DZ or ABDO10_DZ@pm.me
+
+Thanks  
