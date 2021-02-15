@@ -1,13 +1,16 @@
 @echo off
 
 set /P MPATH=Enter MingW PATH:
-
+set /P IPATH=Enter Resource PATH:
+echo " "
 echo Compiler :  %MPATH%
+echo Install/Resources path : %IPATH% 
+echo " "
+echo Compiling By Command Line :  %MPATH% main.cpp -static-libgcc -static-libstdc++ -Wl,-Bstatic,--whole-archive -lwinpthread -Wl,--no-whole-archive -o %IPATH%hrk.exe
 
-echo Compiling By Command Line :  %MPATH% main.cpp -static-libgcc -static-libstdc++ -Wl,-Bstatic,--whole-archive -lwinpthread -Wl,--no-whole-archive -o hrk.exe
+%MPATH% main.cpp -static-libgcc -static-libstdc++ -Wl,-Bstatic,--whole-archive -lwinpthread -Wl,--no-whole-archive -o %IPATH%hrk.exe
 
-%MPATH% main.cpp -static-libgcc -static-libstdc++ -Wl,-Bstatic,--whole-archive -lwinpthread -Wl,--no-whole-archive -o hrk.exe
-
+echo " "
 echo Done , check ur current Directory if has new binaries file , that return to the tool 
 
 echo 
