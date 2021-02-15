@@ -6,9 +6,9 @@ echo " "
 echo Compiler :  %MPATH%
 echo Install/Resources path : %IPATH% 
 echo " "
-echo Compiling By Command Line :  %MPATH% main.cpp -static-libgcc -static-libstdc++ -Wl,-Bstatic,--whole-archive -lwinpthread -Wl,--no-whole-archive -o %IPATH%hrk.exe
+echo Compiling By Command Line :  %MPATH% %IPATH%main.cpp -static-libgcc -static-libstdc++ -Wl,-Bstatic,--whole-archive -lwinpthread -Wl,--no-whole-archive -o %IPATH%hrk.exe
 
-%MPATH% main.cpp -static-libgcc -static-libstdc++ -Wl,-Bstatic,--whole-archive -lwinpthread -Wl,--no-whole-archive -o %IPATH%hrk.exe
+%MPATH% %IPATH%main.cpp -static-libgcc -static-libstdc++ -Wl,-Bstatic,--whole-archive -lwinpthread -Wl,--no-whole-archive -o %IPATH%hrk.exe
 
 echo " "
 echo Done , check ur current Directory if has new binaries file , that return to the tool 
