@@ -20,7 +20,9 @@ hash real killer
 <h6> :~/Downloads/HRK$ bash build.sh </h6>
 <div> <div>
 <h5> for windows users : </h5>
-<h6> use Visual Studio with default settings to compile or via CodeBlocks with (Mingw compiler) </h6>
+<h6> if u has MingW run  mingw.bat in ur CMD or load in ur IDE </h6>
+ <h6>C:\Users\MyUser> mingw.bat</h6>
+<h6> in VSVC  Follow vsvc.txt here if u miss how to load it.</h6>
 <div>
 <div> 
 <div>
