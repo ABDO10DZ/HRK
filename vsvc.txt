@@ -1,4 +1,4 @@
-# this File a Guid for c/c++ noobs only to build in Visual Studio (VSVC Compiler)
+# this File a Guid for c/c++ noobs only to build in Visual Studio (MSVC Compiler)
 
 to build hrk on Visual Studio , Follow Recommanded Instructions : 
 
