@@ -2,10 +2,10 @@
 
 - project : hash real killer By ABDO10 
 - Version : 1.0 
-- abdo10_dz@protonmail.com || defacerdz@gmail.com
+- abdo10_dz@pm.me
 - Developed md5 algorithm to md5 hash killer 
 - Copyrights reserved by ABDO10 (C) 2020 for this Document
-- Copyrights of both md5.h header and md5.cpp source codes are resreved by its owner (   Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All
+- Copyrights of both src/*.h header and src/*.cpp source codes are resreved by its owner (   Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All
 rights reserved.)   
 
 **/
